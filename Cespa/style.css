@@ -1,60 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CepSa Bot - Terms of Service</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Terms of Service</h1>
-            <p>Last updated: November 14, 2024</p>
-        </header>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e2e;
+    color: #c9d1d9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
 
-        <section>
-            <h2>1. Acceptance of Terms</h2>
-            <p>By using the CepSa Discord Bot, you agree to these Terms of Service. If you do not agree, please stop using the Bot immediately.</p>
-        </section>
+.container {
+    max-width: 800px;
+    padding: 20px;
+    background-color: #282c34;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-        <section>
-            <h2>2. Bot Features</h2>
-            <p>The Bot offers various features such as automated moderation, community interactions, notifications, and more.</p>
-        </section>
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
 
-        <section>
-            <h2>3. User Requirements</h2>
-            <p>You must be at least 13 years old to use the Bot in compliance with Discord’s Terms of Service.</p>
-        </section>
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
 
-        <section>
-            <h2>4. Privacy and Data Storage</h2>
-            <p>The Bot does not permanently store personal data. Temporary data may be used for functionality such as moderation.</p>
-        </section>
+section {
+    margin-bottom: 20px;
+}
 
-        <section>
-            <h2>5. Disclaimer of Liability</h2>
-            <p>The Bot is provided "as-is" without any warranties or guarantees. We are not liable for any damages resulting from its use.</p>
-        </section>
+h2 {
+    color: #58a6ff;
+    margin-bottom: 10px;
+}
 
-        <section>
-            <h2>6. Prohibited Use</h2>
-            <p>Do not abuse the Bot for spam, harassment, or illegal activities. Unauthorized modifications are strictly prohibited.</p>
-        </section>
+p {
+    line-height: 1.6;
+}
 
-        <section>
-            <h2>7. Changes to the Terms</h2>
-            <p>We may change these terms at any time. Continued use of the Bot indicates acceptance of the updated terms.</p>
-        </section>
+a {
+    color: #58a6ff;
+    text-decoration: none;
+}
 
-        <section>
-            <h2>8. Contact</h2>
-            <p>If you have questions, contact us at: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-        </section>
-    </div>
-    <footer>
-        <p>&copy; 2024 CepSa Bot. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #7d8590;
+}
