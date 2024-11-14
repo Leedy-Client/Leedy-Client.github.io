@@ -41,8 +41,8 @@ We reserve the right to change these Terms of Service at any time without prior 
 ## 8. Termination of Access
 We reserve the right to terminate access to the Bot for individual users or entire servers without prior notice, particularly in cases of violations of these Terms of Service.
 
-## 9. Contact
-If you have any questions or concerns regarding these Terms of Service or the use of the Bot, you can reach us at: [bircanay@schule-am-stromberg.de](mailto:bircanay@schule-am-stromber.de).
+## 9. Contact).
+If you have any questions or concerns regarding these Terms of Service or the use of the Bot, you can reach us at: [cepsacontact@gmail.com](mailto:cepsacontact@gmail.com)
 
 ---
 
